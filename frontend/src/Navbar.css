@@ -1,0 +1,54 @@
+/* Custom navbar styles */
+.sticky-navbar{
+    background: #000;/* Change the background color to blue */
+  }
+  
+  /* Centering the text inside the navbar */
+  .task-manager {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    color: white;
+    padding: 20px;
+    text-decoration: none;
+    font-family: 'Playfair Display', serif;
+    }
+
+    .navbar-nav {
+      padding-right: 0.5rem;
+      padding-left: 31.5rem;
+      font-family: 'Playfair Display', serif;
+      font-weight: bold;
+      text-decoration: underline;
+      font-size: 20px;
+    }
+    .nav-item {
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+  .text-center{
+    font-family: 'Playfair Display', serif;
+    color: black;
+    font-weight: bold;
+    
+  }
+  .mb-3{
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .text-center{
+    font-family: 'Playfair Display', serif;
+  }
+  .table{
+    font-style: italic;
+  }
+
+  
+  .btn-btn-primary{
+    font-family: 'Playfair Display', serif;
+    background-color: rgb(61, 61, 250);
+    border-radius: 10px;
+    padding: 15px;
+  }
+  
